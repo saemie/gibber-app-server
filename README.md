@@ -1,1 +1,1 @@
-# gibber-media-server
+# gibber-app-server
