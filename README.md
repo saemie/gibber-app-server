@@ -9,6 +9,8 @@
 Room gets spun up before the server starts listening for connections.
 Show number of users in the room.
 
+I'll start creating modules out of the code in `server.js` soon.
+
 Features:
 
 - Look into the peer-to-peer stun/turn signalling (fun fun... Document it this time!)
